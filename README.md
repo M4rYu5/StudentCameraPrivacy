@@ -1,0 +1,2 @@
+# StudentCameraPrivacy
+Privacy Policy
